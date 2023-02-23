@@ -48,4 +48,4 @@ All the project codes are committed in GitHub repository. GitHub Actions will ta
     systemctl list-units --type=service | grep codedeploy
     sudo service codedeploy-agent status
 
-
+--------------------------
