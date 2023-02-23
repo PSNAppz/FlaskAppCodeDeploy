@@ -1,4 +1,4 @@
-<h1 align='center'>Amazon EC2 Deployment in Ubuntu
+<h1 align='center'>Amazon EC2 Deployment
   <span>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png' width='5%' align='center'>
   </span>
