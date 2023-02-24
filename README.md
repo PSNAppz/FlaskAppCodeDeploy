@@ -47,5 +47,3 @@ All the project codes are committed in GitHub repository. GitHub Actions will ta
     sudo dpkg -i codedeploy-agent_1.3.2-1902_ubuntu22.deb
     systemctl list-units --type=service | grep codedeploy
     sudo service codedeploy-agent status
-
---------------------------
